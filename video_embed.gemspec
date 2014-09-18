@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'video_embed/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "video_embed"
+  spec.name          = "video_code_embed"
   spec.version       = VideoEmbed::VERSION
   spec.authors       = ["Pramod"]
   spec.email         = ["pramodv_nyros@yahoo.com"]
