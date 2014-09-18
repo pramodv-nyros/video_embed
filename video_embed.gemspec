@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pramodv_nyros@yahoo.com"]
   spec.summary       = %q{External video player code}
   spec.description   = %q{Embedding third party API to rails using Railties}
-  spec.homepage      = "https://www.odesk.com/o/profiles/users/_~01db2987e0a69ecfb4/"
+  spec.homepage      = "https://github.com/pramodv-nyros"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
